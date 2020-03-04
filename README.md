@@ -1,2 +1,2 @@
 # MyBatis
-MyBatis的简单知识点代码
+MyBatis的简记知识点代码
